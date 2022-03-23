@@ -1,0 +1,9 @@
+platform to test the model
+
+1. use selenium to get the photo on google image 
+
+2. train the model on teachable machine
+
+3. run the photo by those photo
+
+4. get that data by MCC
